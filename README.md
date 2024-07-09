@@ -71,7 +71,7 @@ El método regresará la cantidad de litros requeridos para que el automóvil av
 
 ## Instrucciones
 
-- Deberás modificar SOLAMENTE el archivo `Automovil.hpp` y `student.cpp` también puedes agregar instrucciones en el `excersice.cpp`.
+- Deberás modificar SOLAMENTE el archivo `Automovil.hpp` y `Automovil.cpp` también puedes agregar instrucciones en el `excersice.cpp`.
 
 Explicación de los otros archivos:
 

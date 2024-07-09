@@ -13,9 +13,6 @@ int main()
     cout<<"¿Cuantos pasajeros viajaran?: ";
     int pasajeros;
     cin>>pasajeros;
-    miCoche.avanza(distancia,pasajeros);
-    miCoche.imprimeAutomovil();
-    miCoche.llenaTanque();
-    miCoche.imprimeAutomovil();
+    // Prueba todos tus métodos que trabajen adecuadamente
     return 0;
 }
